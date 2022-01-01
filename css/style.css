@@ -80,7 +80,7 @@ a {
 }
 .card p {
   color: var(--Soft-blue);
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.5;
   margin-bottom: 10px;
 }
@@ -127,6 +127,7 @@ a {
 .card .avatar h3 {
   color: var(--Soft-blue);
   margin-left: 15px;
+  font-size: 15px;
 }
 .card .avatar h3 span {
   color: var(--White);
