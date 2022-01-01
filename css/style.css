@@ -30,7 +30,6 @@ a {
 /* Start Card */
 .card {
   background-color: var(--card-bg);
-  min-height: 70vh;
   padding: 15px;
   width: 300px;
   box-shadow: 5px 5px 50px 5px hsl(217deg 54% 5%);
